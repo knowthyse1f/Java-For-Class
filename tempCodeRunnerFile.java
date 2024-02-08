@@ -1,0 +1,2 @@
+
+            pen2.printColor();
